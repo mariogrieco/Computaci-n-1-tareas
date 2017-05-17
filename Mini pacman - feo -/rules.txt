@@ -1,0 +1,4 @@
+dynamic_cast<> pointer or references (poiformismo requiere funciones virtuales!)
+static_cast<>  normal casting
+const_cast<> a*ade o elimina const y volatile de punteros y refencias de igual tipo
+reinterpret_cast<>
